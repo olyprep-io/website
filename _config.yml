@@ -1,0 +1,26 @@
+# Site settings
+title: OlyPrep.io
+description: Official website for OlyPrep.io
+baseurl: ""
+url: "https://olyprep.io"
+
+# Theme settings
+theme: minimal-mistakes-jekyll
+
+# Build settings
+markdown: kramdown
+
+# Minimal Mistakes specific settings
+minimal_mistakes_skin: "default"
+
+# Site Author
+author:
+  name: "OlyPrep.io"
+  
+# Reading Files
+include:
+  - _pages
+
+# Plugins
+plugins:
+  - jekyll-include-cache
